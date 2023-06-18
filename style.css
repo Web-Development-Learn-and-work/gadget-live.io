@@ -1,0 +1,49 @@
+.container{
+    margin-bottom: 100px;
+}
+.banner{
+    background-image: url(Images/hot-gadgets/bg-1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.buy-now{
+    color: white;
+    font-weight: bold;
+    background-image: linear-gradient(to bottom, rgb(243, 99, 99) 0%, rgb(252, 79, 79) 100%);
+    border: none;
+    border-radius: 5px;
+    padding: 10px 40px;
+}
+.smartpnone, .laptop h5{
+    color: rgb(255, 194, 26);
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 20px lightgray;
+    padding: 10px;
+}
+.card img{
+    width: 100%;
+}
+.orange{
+    width: 130px;
+    height: 10px;
+    background-image: linear-gradient(90deg, rgb(241, 194, 106), rgb(255, 140, 0));
+    border-radius: 50px;
+}
+.hbottom{
+    display: flex;
+    justify-content: center;
+}
+.end-column{
+    text-align: center;
+    padding: 40px 60px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 20px lightgray;
+}
+footer{
+    text-align: center;
+    color: gray;
+    font-size: 13px;
+    padding-bottom: 10px;
+}
